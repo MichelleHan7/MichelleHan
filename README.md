@@ -4,7 +4,7 @@ I'm a Master's student in Computer and Information Science at the University of 
 
 - 🎓 MSE in Computer and Information Science, University of Pennsylvania
 - 📐 B.A. in Applied Mathematics & Computer Science, minor in Psychology and Brain Sciences, Washington University in St. Louis
-- 🔭 Currently building projects in backend engineering, optimization, and applied ML
+- 🔭 Currently building projects in backend engineering, AI Agents, and applied ML
 - 🌱 Interested in software engineering, machine learning, and AI systems
 - 📫 Reach me on [LinkedIn](YOUR_LINKEDIN_URL) or at hanmich@engineering.upenn.edu
 
