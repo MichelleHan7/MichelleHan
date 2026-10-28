@@ -49,9 +49,16 @@ Replaced manual scoring of participants' recall transcripts against 200+-item ch
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, Java, SQL, R, C++  
-**Backend & Data:** Spring Boot, REST APIs, PostgreSQL, Docker, Git  
-**ML & Scientific Computing:** NumPy, Pandas, scikit-learn, TensorFlow, SciPy  
-**Interests:** Software Engineering · Machine Learning · AI Systems
+[![Tech stack](https://skillicons.dev/icons?i=python,java,js,ts,cpp,go,spring,nodejs,express,fastapi,react,nextjs,postgres,mysql,redis,kafka,mongodb,docker,kubernetes,aws,githubactions,linux,pytorch,tensorflow&perline=12)](https://skillicons.dev)
+
+| Area | Tools |
+|---|---|
+| **Languages** | Python, Java, JavaScript, TypeScript, C++, Go, SQL, R |
+| **Backend** | Spring Boot, Node.js, Express, FastAPI, REST APIs, Celery, Pydantic |
+| **Data & Messaging** | PostgreSQL, MySQL, Redis, Kafka, MongoDB, pgvector |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS (EC2, S3, Lambda), GitHub Actions, Linux |
+| **AI / ML** | OpenAI API, LangChain, LangGraph, Langfuse, Hugging Face, PyTorch, TensorFlow, scikit-learn |
+| **Testing** | pytest, JUnit, Jest, k6 |
+
